@@ -25,7 +25,7 @@
 {
     [super viewDidLoad];
 
-    //maybe we need a functionality to delete conatct if this contact is huilo ^_^
+    //maybe we need a functionality to delete conatct if this contact is hu*lo ^_^
 }
 
 
